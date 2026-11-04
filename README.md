@@ -21,7 +21,14 @@ The primary source of data used here is data sale csv and this is an open-source
 -  power BI (for creating areport)
 -  ms powerpoint for presentation)
 
+## Data Analysis
+This is where we include some basic lines of code or quarries or even some of the DAS expression used during your analysis
 
+Eg
+```
+select A,B,C
+where A>B
+```
 
 
 
